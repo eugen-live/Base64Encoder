@@ -1,0 +1,1 @@
+Replace output.bin and base64.txt in main.py with you files and copy them to directory with the script 
